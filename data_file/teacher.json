@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dinesh",
+        "subject": "TOC",
+        "id": "Di11",
+        "address": "Bhaktapur",
+        "email": "Dinesh@gmail.com",
+        "phone_number": 9810000000
+    },
+    {
+        "name": "Om",
+        "subject": "Maths",
+        "id": "123",
+        "address": "Ktm",
+        "email": "Om@gmail.com",
+        "phone_number": 9000000001
+    },
+    {
+        "name": "Jenisha",
+        "subject": "English",
+        "id": "111",
+        "address": "Pkr",
+        "email": "Jenisha@gmail.com",
+        "phone_number": 9888888888
+    },
+    {
+        "name": "Jenish",
+        "subject": "English",
+        "id": "111",
+        "address": "Pkr",
+        "email": "Jenish@gmail.com",
+        "phone_number": 9088888888
+    }
+]

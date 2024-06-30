@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Jeeni",
+        "roll_number": "18",
+        "email": "Jeeni@gmail.com",
+        "phone_number": "9841000000",
+        "marks": {
+            "English": 90,
+            "Maths": 92,
+            "Science": 98,
+            "Social Studies": 80
+        },
+        "address": "Jadibuti"
+    },
+    {
+        "name": "Astha",
+        "roll_number": "19",
+        "email": "Astha@gmail.com",
+        "phone_number": "9700000000",
+        "marks": {
+            "English": 90,
+            "Maths": 89,
+            "Science": 99,
+            "Social Studies": 91
+        },
+        "address": "Ktm"
+    },
+    {
+        "name": "Krishna",
+        "roll_number": "20",
+        "email": "Krishna@gmail.com",
+        "phone_number": "9777777777",
+        "marks": {
+            "English": 50,
+            "Maths": 99,
+            "Science": 80,
+            "Social Studies": 60
+        },
+        "address": "Bkt"
+    }
+]
